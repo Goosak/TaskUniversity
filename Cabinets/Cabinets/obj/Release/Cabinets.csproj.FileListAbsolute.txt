@@ -1,0 +1,10 @@
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\bin\Release\Cabinets.exe.config
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\bin\Release\Cabinets.exe
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\bin\Release\Cabinets.pdb
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Release\Cabinets.fCabinets.resources
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Release\Cabinets.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Release\Cabinets.Transport.resources
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Release\Cabinets.csproj.GenerateResource.cache
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Release\Cabinets.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Release\Cabinets.exe
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Release\Cabinets.pdb

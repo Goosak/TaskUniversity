@@ -1,0 +1,11 @@
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\bin\Debug\Cabinets.exe.config
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\bin\Debug\Cabinets.exe
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\bin\Debug\Cabinets.pdb
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Debug\Cabinets.csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Debug\Cabinets.fCabinets.resources
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Debug\Cabinets.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Debug\Cabinets.csproj.GenerateResource.cache
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Debug\Cabinets.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Debug\Cabinets.exe
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Debug\Cabinets.pdb
+C:\Users\Vladimir\Desktop\VSProj\Cabinets\Cabinets\obj\Debug\Cabinets.Transport.resources
